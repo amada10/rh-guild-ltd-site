@@ -951,8 +951,9 @@ header .fa {
 }
 
 #contact .btn-primary:hover {
-    background-color: #b4dc2d;
-    border-color: #b4dc2d;
+    background-color: #ffd700;
+    border-color: #ffd700;
+    color: black;
 }
 
 #contact .form-group {
@@ -981,7 +982,7 @@ textarea.form-control {
 
 #contact ::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
-    color: #c2c2c2;
+    color: black;
     font-style: italic;
     font-size: 13px;
     font-weight: 200;
@@ -989,7 +990,7 @@ textarea.form-control {
 
 #contact ::-moz-placeholder {
     /* Firefox 19+ */
-    color: #c2c2c2;
+    color: black;
     font-style: italic;
     font-weight: 200;
     font-size: 13px;
@@ -997,7 +998,7 @@ textarea.form-control {
 
 #contact ::-ms-input-placeholder {
     /* IE 10+ */
-    color: #c2c2c2;
+    color: black;
     font-style: italic;
     font-weight: 200;
     font-size: 13px;
@@ -1005,7 +1006,7 @@ textarea.form-control {
 
 #contact ::-moz-placeholder {
     /* Firefox 18- */
-    color: #c2c2c2;
+    color: black;
     font-weight: 200;
     font-style: italic;
     font-size: 13px;
